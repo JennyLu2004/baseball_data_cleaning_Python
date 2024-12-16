@@ -1,4 +1,4 @@
-# baseball_data_cleaning_Python
+# Cleaning Baseball Data With Python
 The data which I am using for this project is about Baseball Players Statistics from ESPN
 
 Given this link: https://www.espncricinfo.com/records/highest-career-batting-average-282910.
